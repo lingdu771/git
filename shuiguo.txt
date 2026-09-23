@@ -1,5 +1,0 @@
-name = input("请输入你的名字：")
-print(f"你好，{name}！")
-
-fruit = input("你喜欢吃什么水果？")
-print(f"原来你喜欢吃{fruit}！")
